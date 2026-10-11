@@ -1,6 +1,7 @@
 body {
     font-family: "Kanit", sans-serif;
     font-weight: 400;
+    background-color: #121212;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -19,6 +20,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #about-me, #my-portfolio {
+    color: azure;
     font-weight: 400;
     letter-spacing: 2px;
     text-transform: uppercase;
